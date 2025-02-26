@@ -3,12 +3,12 @@ entries:
   chart-mysql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-26T02:32:50.496438941+01:00"
+    created: "2025-02-26T02:41:21.688618648+01:00"
     description: A Helm chart for Kubernetes
     digest: 24527312c34dda463865ee2a9817b09557bbfca10e96b0031f660eaf5323f9f1
     name: chart-mysql
     type: application
     urls:
-    - https://grimorio11.github.io/curso/chart-mysql-0.1.0.tgz
+    - chart-mysql-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-26T02:32:50.495889324+01:00"
+generated: "2025-02-26T02:41:21.588909706+01:00"
