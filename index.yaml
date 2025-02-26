@@ -1,25 +1,36 @@
 apiVersion: v1
 entries:
+  chart-composite-values:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-26T03:06:49.965118607+01:00"
+    description: A Helm chart for Kubernetes
+    digest: fc24d4bfc50771031aa2613aedae9caa30dd66344fad4ab71718b871f6a78d7b
+    name: chart-composite-values
+    type: application
+    urls:
+    - https://grimorio11.github.io/curso/chart-composite-values-0.1.0.tgz
+    version: 0.1.0
   chart-mysql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-26T02:47:07.565116991+01:00"
+    created: "2025-02-26T03:06:49.966765592+01:00"
     description: A Helm chart for Kubernetes
     digest: 24527312c34dda463865ee2a9817b09557bbfca10e96b0031f660eaf5323f9f1
     name: chart-mysql
     type: application
     urls:
-    - chart-mysql-0.1.0.tgz
+    - https://grimorio11.github.io/curso/chart-mysql-0.1.0.tgz
     version: 0.1.0
   chart-variables:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-26T02:47:07.567365467+01:00"
+    created: "2025-02-26T03:06:49.968183503+01:00"
     description: A Helm chart for Kubernetes
     digest: 86356b162b0f33fc709c448a88f5730875a593f56a709f13db99cffe94402ac0
     name: chart-variables
     type: application
     urls:
-    - chart-variables-0.1.0.tgz
+    - https://grimorio11.github.io/curso/chart-variables-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-26T02:47:07.563643587+01:00"
+generated: "2025-02-26T03:06:49.959258545+01:00"
